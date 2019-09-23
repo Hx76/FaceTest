@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="SapientialClass" />
+    <version value="4" />
+
+    <list>
+        <mapping class="com.example.facetest.datebase.StudentInfo"></mapping>
+        <mapping class="com.example.facetest.datebase.ClassInfo"></mapping>
+        <mapping class="com.example.facetest.datebase.DoorInfo"></mapping>
+        <mapping class="com.example.facetest.datebase.LightInfo"></mapping>
+        <mapping class="com.example.facetest.datebase.RelayInfo"></mapping>
+
+    </list>
+</litepal>
